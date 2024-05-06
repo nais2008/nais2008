@@ -4,4 +4,8 @@
 <hr>
 <div id="main">
   <h2>About me</h2>
+  <section>
+
+  </section>
 </div>
+
