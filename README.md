@@ -2,7 +2,7 @@
 <h3 align="center">Русский Full-Stack</h3>
 
 
-## 🌐Соц-Сути
+## 🌐Соц-Сети
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/687290626836004884) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://ru.stackoverflow.com/users/576061/nais2008) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nais1488) 
 
 # 💻 Языки и Технологии 
