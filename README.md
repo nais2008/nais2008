@@ -7,8 +7,9 @@
 <h2 align="center">My stack:</h2>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,py,pug,php,less,bootstrap,flask,qt,wordpress,windows,webstorm,,&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vite,pycharm,postman,npm,github,git,figma,docker,discord,codepen,stackoverflow,mysql,sqlite,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,py,pug,php,less,bootstrap,flask,qt,wordpress,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,github,git,figma,docker,discord,codepen,stackoverflow,mysql,sqlite&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,pycharm,postman,windows,webstorm&theme=dark)](https://skillicons.dev)
 
   <br/>
   <a href="https://github.com/anuraghazra/convoychat" align="center">
