@@ -7,7 +7,7 @@
 <h2 align="center">My stack:</h2>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,py,pug,php,less,bootstrap,flask,qt,wordpress,vscode,vite,pycharm,postman,windows,webstorm,npm,github,git,figma,docker,discord,codepen,stackoverflow,mysql,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,py,pug,php,less,bootstrap,flask,qt,wordpress,vscode,vite,pycharm,postman,windows,webstorm,npm,github,git,figma,discord,codepen,stackoverflow,mysql,sqlite&theme=dark)](https://skillicons.dev)
 
   <a href="https://github.com/anuraghazra/convoychat" align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nais2008&layout=compact&langs_count=8&card_width=320&theme=radical" />
