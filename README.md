@@ -23,7 +23,3 @@
 ### Programs
 
 ![programs](https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,figma)
-
-## More info
-
-![stat](https://github-readme-stats.vercel.app/api/top-langs?username=nais2008&layout=compact&langs_count=8&card_width=500&theme=radical)
