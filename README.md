@@ -18,7 +18,7 @@
 
 ### DB Management System
 
-![DB Management System](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,)
+![DB Management System](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql)
 
 ### Programs
 
