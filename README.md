@@ -10,7 +10,7 @@
 
 ### Framework and CRM
 
-![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,django,fastapi,qt,bootstrap,wordpress)
+![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,django,qt,bootstrap,wordpress)
 
 ### VCS and service
 
