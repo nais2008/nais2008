@@ -6,11 +6,11 @@
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,php,py,go,pug,less,sass)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,php,py,go,pug,less,sass,ts,html,css)
 
 ### Framework and CRM
 
-![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,django,qt,bootstrap,wordpress)
+![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,django,qt,bootstrap,wordpress,react,next)
 
 ### VCS and service
 
